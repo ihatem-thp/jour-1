@@ -1,6 +1,12 @@
 # Jour-1
 Projet : Réalise ta première page web !
 
+## 0\. Demos 
+
+- *MotherfuckingWebsite*: [https://ihatem-thp.github.io/jour-1/MotherfuckingWebsite](https://ihatem-thp.github.io/jour-1/MotherfuckingWebsite)
+- *BetterMotherFuckingWebsite*: [https://ihatem-thp.github.io/jour-1/BetterMotherFuckingWebsite](https://ihatem-thp.github.io/jour-1/BetterMotherFuckingWebsite)
+- *BestMotherFuckingWebsite*: [https://ihatem-thp.github.io/jour-1/BestMotherFuckingWebsite](https://ihatem-thp.github.io/jour-1/BestMotherFuckingWebsite)
+
 ## 1\. Introduction
 
 La meilleure technique pour apprendre à se servir du HTML / CSS, c'est de reproduire des pages internet. Ça tombe plutôt bien, parce que c'est exactement ce qu'on te demande pour ce projet ! Contrairement à tous les sites d'apprentissage qui t'enjoignent à "coder ton CV" ou à "créer la page de ton choix", tu n'auras pas à te prendre la tête sur du design (c'est un autre métier que nous aborderons plus tard). De plus, rien de tel qu'une application concrète de ce que tu as vu jusqu'à présent. Prêt à commencer ? C'est parti !
