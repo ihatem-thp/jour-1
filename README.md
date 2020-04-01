@@ -21,9 +21,8 @@ Il existe un site faisant l'apologie du webdesign brutaliste : [MotherFuckingWeb
 
 En guise de second projet, nous allons un peu améliorer ce site. Tu vas donc créer un nouveau dossier avec la version améliorée de MotherFuckingWebsite : [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), ce qui demande un peu de CSS.
 
-#### 🚀 ALERTE BONNE ASTUCE
-
-Si tu es malin, tu as sans doute remarqué qu'il suffit de copier-coller le code du fichier CSS pour avoir une version qui marche. [Habile](https://www.youtube.com/watch?v=18SNR9c09is). Cependant, comme tu vas vite t'en rendre compte, cette technique ne marchera pas toujours. Tu vas assez vite te retrouver à devoir pondre du code toi-même et te battre avec Google pour [how to center those fucking divs](https://www.google.fr/search?q=how+to+center+those+fucking+divs&oq=how+to+center+those+fucking+divs&aqs=chrome..69i57.7150j0j9&sourceid=chrome&ie=UTF-8), donc autant prendre la bonne habitude dès maintenant. Evidemment, on ne peut pas te forcer. Mais sache qu'avec un copier-coller, tu n'apprendras rien même si tu penses "avoir tout compris" en lisant le code. Savoir lire du code est une chose, savoir le re-pondre en est une autre 😉
+>#### 🚀 ALERTE BONNE ASTUCE
+>Si tu es malin, tu as sans doute remarqué qu'il suffit de copier-coller le code du fichier CSS pour avoir une version qui marche. [Habile](https://www.youtube.com/watch?v=18SNR9c09is). Cependant, comme tu vas vite t'en rendre compte, cette technique ne marchera pas toujours. Tu vas assez vite te retrouver à devoir pondre du code toi-même et te battre avec Google pour [how to center those fucking divs](https://www.google.fr/search?q=how+to+center+those+fucking+divs&oq=how+to+center+those+fucking+divs&aqs=chrome..69i57.7150j0j9&sourceid=chrome&ie=UTF-8), donc autant prendre la bonne habitude dès maintenant. Evidemment, on ne peut pas te forcer. Mais sache qu'avec un copier-coller, tu n'apprendras rien même si tu penses "avoir tout compris" en lisant le code. Savoir lire du code est une chose, savoir le re-pondre en est une autre 😉
 
 ### 2.3\. BestMotherFuckingWebsite
 
