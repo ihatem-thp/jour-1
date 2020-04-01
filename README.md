@@ -1,3 +1,5 @@
+### Jour 2 / 5
+
 # Semaine d'introduction au code
 
 ## Ta première page web
